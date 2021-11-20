@@ -3,10 +3,12 @@
 Nothing. 
 
 # Installation 
+This package is the same as https://github.com/btx78000/RedM_ragdoll but translated for javascript lovers
+
 
 - Download files
-- Copy and paste RedM_ragdoll-master folder to resources/
-- Add ensure RedM_ragdoll-master to your server.cfg file
+- Copy and paste RedM_ragdollJS-master folder to resources/
+- Add ensure RedM_ragdollJS-master to your server.cfg file
 
 # How it works
 
